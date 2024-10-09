@@ -51,3 +51,4 @@ document.addEventListener('keydown', function(event) {
         appendToDisplay(key);
     }
 });
+
